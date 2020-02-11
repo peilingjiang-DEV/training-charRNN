@@ -4,7 +4,9 @@ Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language m
 
 Based on [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow).
 
-[Here](https://www.youtube.com/watch?v=xfuVcfwtEyw) is a video to help you get started with training charRNN with [Spell](https://www.spell.run/)
+- **[Blog post describing how to train and use an LSTM network in ml5.js](https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js/)**.
+- **[Video showing how to train an LSTM network using Spell and ml5.js](https://youtu.be/xfuVcfwtEyw)** to generate text in the style of a particular author.
+
 
 ## Requirements
 
